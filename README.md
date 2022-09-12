@@ -1,4 +1,4 @@
-<img align="center" alt="Welcome" src="https://github.com/wasy38/wasy38/blob/main/assets/welcome.gif">
+<img align="center" alt="Welcome" src="https://github.com/wasy38/wasy38/blob/main/assets/welcome.png">
 
 <h1 align="center">Hi there 👋, I'm Pavel</h1>
 <h3 align="center">I'm a beginner developer</h3>
