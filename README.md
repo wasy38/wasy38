@@ -2,7 +2,7 @@
 <p align="center"><img align="center" alt="Welcome" src="https://github.com/wasy38/wasy38/blob/main/assets/welcome.png"> </p>
 
 <h1 align="center">Hi there 👋, I'm Pavel</h1>
-<h2 align="center">I'm a beginner developer</h2>
+<h3 align="center">I'm a beginner developer</h3>
 
 <img align="right" alt="Coding" width="450" src="https://github.com/wasy38/wasy38/blob/main/assets/coding.gif">
 
@@ -14,7 +14,7 @@
 
 - 🤷‍♂️ So a fact about me **I'm a big fan of dark fantasy ಠ_ಠ**
 
-<h2 align="left">I'm on:</h2>
+<h3 align="left">I'm on:</h3>
 <p align="left">
 <a href="https://vk.com/okhotnikov96" target="blank"><img align="center" src="https://github.com/wasy38/wasy38/blob/main/assets/vk.png" alt="okhotnikov96" height="40" width="40" /> </a>
 <a href="https://t.me/wasy38" target="blank"><img align="center" src="https://raw.githubusercontent.com/wasy38/wasy38/main/assets/telegram.webp" alt="@wasy38" height="40" width="40" /> </a>
@@ -43,6 +43,6 @@
     <a href="https://github.com/topics/mysql" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/> </a>
     <a href="https://github.com/topics/sql" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasy38&show_icons=true&locale=en&layout=compact" alt="wasy38" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasy38&show_icons=true&locale=en" alt="wasy38" /></p>
+<h2 align="center">My stats</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasy38&show_icons=true&locale=en&layout=compact" alt="wasy38" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=wasy38&show_icons=true&locale=en" alt="wasy38" /></p>
