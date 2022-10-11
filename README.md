@@ -1,7 +1,6 @@
 <p align="center"><img align="center" alt="Welcome" src="https://github.com/wasy38/wasy38/blob/main/assets/welcome.png"> </p>
 
 <h1 align="center">Hi there 👋, I'm Pavel</h1>
-<h3 align="center">I'm a beginner developer</h3>
 
 - 🔬 I’m currently learning **neural networks**
 
@@ -44,7 +43,5 @@
     <a href="https://github.com/topics/sql" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 <h2 align="center">My stats</h2>
-<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasy38&show_icons=true&locale=en&layout=compact" alt="wasy38" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wasy38&show_icons=true&locale=en" alt="wasy38" /></p>
-</div>
