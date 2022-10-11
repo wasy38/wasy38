@@ -1,10 +1,7 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=wasy38&label=Profile%20views&color=0e75b6&style=flat" alt="wasy38" /> </p>
 <p align="center"><img align="center" alt="Welcome" src="https://github.com/wasy38/wasy38/blob/main/assets/welcome.png"> </p>
 
 <h1 align="center">Hi there 👋, I'm Pavel</h1>
 <h3 align="center">I'm a beginner developer</h3>
-
-<img align="right" alt="Coding" width="450" src="https://github.com/wasy38/wasy38/blob/main/assets/coding.gif">
 
 - 🔬 I’m currently learning **neural networks**
 
