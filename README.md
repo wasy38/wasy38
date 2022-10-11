@@ -17,9 +17,12 @@
 <a href="https://t.me/wasy38" target="blank"><img align="center" src="https://raw.githubusercontent.com/wasy38/wasy38/main/assets/telegram.webp" alt="@wasy38" height="40" width="40" /> </a>
 </p>
 
-<br>
-<br>
-<br>
+<h2 align="center">My projects</h2>
+<p align="left">
+    <a href="https://github.com/wasy38/AnimalFarm">Animal farm</a>
+    <br/>
+    <a href="https://github.com/wasy38/FastGraphs">Graphs library</a>
+</p>
 
 <h2 align="center">Skills</h2>
 <h3 align="center">Programming Languages</h3>
@@ -41,5 +44,5 @@
     <a href="https://github.com/topics/sql" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 <h2 align="center">My stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasy38&show_icons=true&locale=en&layout=compact" alt="wasy38" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasy38&show_icons=true&locale=en" alt="wasy38" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasy38&show_icons=true&locale=en&layout=compact" alt="wasy38" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wasy38&show_icons=true&locale=en" alt="wasy38" /></p>
